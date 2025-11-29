@@ -1,1 +1,1 @@
-### This directory contains all the detection and streaming utility logic
+This directory contains all the detection and streaming utility logic
